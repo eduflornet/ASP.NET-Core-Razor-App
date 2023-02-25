@@ -1,4 +1,11 @@
-## [Build real world Razor application using Repository Pattern, N-Tier Architecture, API's in ASP.NET Core Razor Pages](https://github.com/eduflornet/dotnet/tree/main/net6.0/aspnetcore-web-app)
+## [Build real world Razor application using Repository Pattern, N-Tier Architecture, API's in ASP.NET Core Razor Pages](https://github.com/eduflornet/ASP.NET-Core-Razor-App/tree/main/Abby)
+
+### Tools
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
+- [NET6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [Entity Framework Core 6](https://learn.microsoft.com/en-us/ef/core/what-is-new/ef-core-6.0/whatsnew)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
 
 ### Libraries
 - [Bootswatch, Darkly, LUX Navbar by Bootstrap](https://bootswatch.com)
@@ -17,3 +24,4 @@
 - [DataAnnotations](https://learn.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations?view=net-7.0) 
 - [Razor file compilation in ASP.NET Core](https://learn.microsoft.com/es-mx/aspnet/core/mvc/views/view-compilation?view=aspnetcore-6.0&tabs=visual-studio)
 - [Partial views in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-7.0)
+- [Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application](https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
