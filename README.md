@@ -1,5 +1,13 @@
 ## [Build real world Razor application using Repository Pattern, N-Tier Architecture, API's in ASP.NET Core Razor Pages](https://github.com/eduflornet/ASP.NET-Core-Razor-App/tree/main/Abby)
 
+### Implementation details
+- [Data Access Layer library](https://github.com/eduflornet/ASP.NET-Core-Razor-App/tree/main/Abby/Abby.DAL)
+	- [Entity Framework Core migrations](https://github.com/eduflornet/ASP.NET-Core-Razor-App/tree/main/Abby/Abby.DAL/Migrations)
+	- [Repository pattern implementation detail](https://github.com/eduflornet/ASP.NET-Core-Razor-App/tree/main/Abby/Abby.DAL/Repository)
+	- [UnitOfWork pattern implementation detail](https://github.com/eduflornet/ASP.NET-Core-Razor-App/blob/main/Abby/Abby.DAL/Repository/UnitOfWork.cs)
+
+- [Razor Web Client](https://github.com/eduflornet/ASP.NET-Core-Razor-App/tree/main/Abby/AbbyWeb)
+
 ### Tools
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 - [NET6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
@@ -7,7 +15,7 @@
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 
-### Libraries
+### Third party libraries
 - [Bootswatch, Darkly, LUX Navbar by Bootstrap](https://bootswatch.com)
 - [Bootstrap CSS, Icons - include via CDN](https://getbootstrap.com)
 - [Toastr](https://codeseven.github.io/toastr/)
