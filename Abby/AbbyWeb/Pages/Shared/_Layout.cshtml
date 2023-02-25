@@ -25,12 +25,27 @@
                         <li class="nav-item">
                             <a class="nav-link" asp-area="" asp-page="/Index">Home</a>
                         </li>
+
+                        <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Admin</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" asp-area="" asp-page="/Admin/Categories/Index">Categories</a>
+                                    <a class="dropdown-item" asp-area="" asp-page="/Admin/FoodTypes/Index">Food Types</a>
+                                    <a class="dropdown-item" asp-area="" asp-page="/Admin/MenuItems/Index">Menu Items</a>
+
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" asp-area="Identity" asp-page="/Account/Register">Register Employee</a>
+                                </div>
+                            </li>
+
                         @*<li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
                         </li>*@
-                        <li class="nav-item">
+
+                        @*<li class="nav-item">
                             <a class="nav-link" asp-area="" asp-page="Admin/Categories/index">Categories</a>
-                        </li>
+                        </li>*@
+
                     </ul>
                 </div>
             </div>

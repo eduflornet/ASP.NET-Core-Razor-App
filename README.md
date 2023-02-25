@@ -1,7 +1,7 @@
 ## [Build real world Razor application using Repository Pattern, N-Tier Architecture, API's in ASP.NET Core Razor Pages](https://github.com/eduflornet/dotnet/tree/main/net6.0/aspnetcore-web-app)
 
 ### Libraries
-- [Bootswatch, Darkly by Bootstrap](https://bootswatch.com)
+- [Bootswatch, Darkly, LUX Navbar by Bootstrap](https://bootswatch.com)
 - [Bootstrap CSS, Icons - include via CDN](https://getbootstrap.com)
 - [Toastr](https://codeseven.github.io/toastr/)
 
