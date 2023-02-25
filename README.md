@@ -5,6 +5,8 @@
 ### References
 - [Bootswatch, Darkly by Bootstrap](https://bootswatch.com)
 - [Bootstrap CSS, Icons - include via CDN](https://getbootstrap.com)
+- [Model validation in ASP.NET Core MVC and Razor Pages](https://learn.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-7.0)
+- [DataAnnotations](https://learn.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations?view=net-7.0) 
 - [Razor file compilation in ASP.NET Core](https://learn.microsoft.com/es-mx/aspnet/core/mvc/views/view-compilation?view=aspnetcore-6.0&tabs=visual-studio)
 - [Razor Pages Intro](https://learn.microsoft.com/es-mx/aspnet/core/razor-pages/?view=aspnetcore-6.0&tabs=visual-studio)
 - [BindPropertyAttribute](https://learn.microsoft.com/es-mx/dotnet/api/microsoft.aspnetcore.mvc.bindpropertyattribute?view=aspnetcore-7.0)
