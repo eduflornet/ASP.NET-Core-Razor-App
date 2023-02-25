@@ -17,7 +17,12 @@ namespace Abby.DAL.Repository
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            _db.Dispose();
+        }
+
+        public void Save()
+        {
+            _db.SaveChanges();
         }
     }
 }
