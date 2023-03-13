@@ -19,6 +19,7 @@
 - [Bootswatch, Darkly, LUX Navbar by Bootstrap](https://bootswatch.com)
 - [Bootstrap CSS, Icons - include via CDN](https://getbootstrap.com)
 - [Toastr](https://codeseven.github.io/toastr/)
+- [DataTables](https://datatables.net)
 
 
 ### References
