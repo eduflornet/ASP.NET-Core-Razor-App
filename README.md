@@ -13,6 +13,7 @@
 - [NET6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - [Entity Framework Core 6](https://learn.microsoft.com/en-us/ef/core/what-is-new/ef-core-6.0/whatsnew)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [Docker](https://www.docker.com/)
 
 
 ### Third party libraries
