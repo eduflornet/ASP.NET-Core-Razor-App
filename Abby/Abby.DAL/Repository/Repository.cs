@@ -13,6 +13,7 @@ namespace Abby.DAL.Repository
         public Repository(ApplicationDbContext db)
         {
             _db = db;
+            _db.MenuItem.Include(u => u.FoodType).Include(u=>u.Category);
             this.dbSet = db.Set<T>();
 
         }

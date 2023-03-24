@@ -13,6 +13,10 @@
 - [NET6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - [Entity Framework Core 6](https://learn.microsoft.com/en-us/ef/core/what-is-new/ef-core-6.0/whatsnew)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [Serilog.AspNetCore version 6.1.0](https://www.nuget.org/packages/Serilog.AspNetCore/)
+- [Serilog.Expressions version 3.4.1](https://github.com/serilog/serilog-expressions)
+- [Serilog.Sinks.Debug version 2.0.0](https://github.com/serilog/serilog-sinks-debug)
+- [Microsoft.AspNetCore.Diagnostics.HealthChecks](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-7.0)
 - [Docker](https://www.docker.com/)
 
 
@@ -35,3 +39,4 @@
 - [Razor file compilation in ASP.NET Core](https://learn.microsoft.com/es-mx/aspnet/core/mvc/views/view-compilation?view=aspnetcore-6.0&tabs=visual-studio)
 - [Partial views in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-7.0)
 - [Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application](https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
+- [blog-Add logging to ASP.NET Core using Serilog .NET6](https://blog.christian-schou.dk/use-serilog-with-asp-net-core-net6/)
