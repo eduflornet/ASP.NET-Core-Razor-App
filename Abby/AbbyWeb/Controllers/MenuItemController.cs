@@ -19,7 +19,7 @@ namespace AbbyWeb.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            //var menuItemList = _unitOfWork.MenuItem.GetAll(includeProperties: "Category,FoodType");
+            var menuItemList = _unitOfWork.MenuItem.GetAll(includeProperties: "Category,FoodType");
             return Json(new { data = menuItemList });
         }
 
